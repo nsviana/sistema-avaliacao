@@ -20,11 +20,15 @@ Descrição de Cada arquivo/Pasta...
 
 ← `diario.xls`: Planilha com os dados dos alunos.
 
+← `server.js`: Lógica no Back-End _nodejs_ para receber os arquivos, fazer as devidas validações e salvar no servidor.
+
 ← `/uploads`: Contém todas as pastas com os arquivos recebidos de cada aluno
 
 
 ## Para executar a aplicação
+**`npm init -y`**
 **`node server.js`**
+**`http://localhost:3000`**
 
 ## Contato
 
